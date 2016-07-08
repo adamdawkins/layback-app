@@ -1,0 +1,25 @@
+{
+  "name": "layback",
+  "version": "0.1.0",
+  "description": "layback",
+  "scripts": {
+    "start": "export MONGO_URL=mongodb://layback:upswing-markup-bagpipe@aws-us-east-1-portal.17.dblayer.com:10116/layback; meteor"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/username/reponame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^2.1.6",
+    "mantra-core": "^1.2.0",
+    "moment": "^2.14.1",
+    "react": "^15.0.0",
+    "react-chartjs": "^0.7.3",
+    "react-dom": "^15.0.0",
+    "react-komposer": "^1.3.0",
+    "react-mounter": "^1.0.0",
+    "react-simple-di": "^1.0.1"
+  }
+}
